@@ -1,6 +1,2 @@
----
-description: listadas na conexão (Fontes)
----
-
-# Variáveis de Ambientes
+# Transformações e Modelagem de Dados:
 
