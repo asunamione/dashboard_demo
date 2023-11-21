@@ -1,2 +1,0 @@
-# Fontes de Dados:
-
